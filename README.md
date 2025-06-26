@@ -10,6 +10,7 @@
 
 - [**Traveed AI**](https://traveed.vercel.app): First Expense Tracking AI for Traveler.
 - [**Smeltub**](https://github.com/riparuk/Smeltub-API): Research on Tuberculosis Detection Device using Machine Learning and IoT Integration.
+- [**QIAI**](https://github.com/riparuk/qiai): QIAI AI (Quick Assistant) is a program built with JavaScript and integrated with GPT-4o-mini.
 
 ## About Me
 
