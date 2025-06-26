@@ -17,6 +17,13 @@
 - :school: a Computer Information Systems graduate from [USK](https://usk.ac.id/) with a passion for AI, software engineering, and problem solving.
 Passionate in building Automation AI Workflows.
 - 🔭 I’m currently working on my own SaaS, [Traveed AI](https://traveed.vercel.app).
+ 
+## Skills
+- **Languages**: Python, C, C++, PHP, Kotlin, Typescript, Javascript, Golang, Java
+- **Frameworks**: Bootstrap, Tailwind, Laravel, Flask, FastAPI, React, NextJS
+- **Databases**: MySQL/Mariadb, Postgres, Redis, OpenSearch
+- **Operating Systems**: Linux, MacOS
+- **Tools**: Visual Studio, Git, Docker
 
 ## Little bit of achievement
 
