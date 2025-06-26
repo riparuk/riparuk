@@ -14,8 +14,7 @@
 
 ## About Me
 
-- :school: a Computer Information Systems graduate from [USK](https://usk.ac.id/) with a passion for AI, software engineering, and problem solving.
-Passionate in building Automation AI Workflows.
+- [I'm]((https://github.com/riparuk) a Bachelor of Computer Information Systems graduate from [USK](https://usk.ac.id/) with a passion for AI, software engineering, and problem solving.
 - 🔭 I’m currently working on my own SaaS, [Traveed AI](https://traveed.vercel.app).
  
 ## Skills
