@@ -10,6 +10,7 @@
 
 - [**Traveed AI**](https://traveed.app): First Expense Tracking AI for Traveler.
 - [**Smeltub**](https://github.com/riparuk/Smeltub-API): Research on Tuberculosis Detection Device using Machine Learning and IoT Integration.
+- [**LazyTeacher**](https://github.com/riparuk/LazyTeacher): Is a library that allows for automatic question generation and evaluation using the help of llm, built on langchain.
 - [**QIAI**](https://github.com/riparuk/qiai): simple terminal assistant if you forget the commands integrated with the GPT-4o-mini.
 
 ## About Me
